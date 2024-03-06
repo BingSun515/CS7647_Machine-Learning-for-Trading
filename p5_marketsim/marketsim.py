@@ -22,8 +22,8 @@ GT honor code violation.
 -----do not edit anything above this line---
 
 Student Name: Tucker Balch (replace with your name)
-GT User ID: bsun302 (replace with your User ID)
-GT ID: 903963507 (replace with your GT ID)
+GT User ID: bsun*** (replace with your User ID)
+GT ID: ****** (replace with your GT ID)
 """
 
 import datetime as dt
@@ -35,7 +35,7 @@ from util import get_data, plot_data
 
 
 def author():
-    return 'bsun302'
+    return 'bsun***'
 def compute_portvals(
     orders_file="./orders/orders.csv",
     start_val=1000000,
