@@ -24,8 +24,8 @@ GT honor code violation.
 -----do not edit anything above this line---
 
 Student Name: Bing Sun (replace with your name)
-GT User ID: bsun302 (replace with your User ID)
-GT ID: 903963507 (replace with your GT ID)
+GT User ID: 8888 (replace with your User ID)
+GT ID: 9999999 (replace with your GT ID)
 """
 import datetime as dt
 import numpy as np
